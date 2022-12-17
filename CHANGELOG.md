@@ -1,5 +1,20 @@
 # Changelog
 
+## [9.2.1](https://github.com/npm/cli/compare/v9.2.0...v9.2.1) (2022-12-17)
+
+### Bug Fixes
+
+* [`28ec922`](https://github.com/npm/cli/commit/28ec922e18c7178e840fd28cbbf78f56f0a7a653) [#5946](https://github.com/npm/cli/pull/5946) replace rimraf with fs.rm (@lukekarrys)
+
+### Dependencies
+
+* [`ec09474`](https://github.com/npm/cli/commit/ec09474b371b0706d0d55a4968cf6ae545423568) [#5945](https://github.com/npm/cli/pull/5945) `minipass-fetch@3.0.1`
+* [Workspace](https://github.com/npm/cli/releases/tag/arborist-v6.1.6): `@npmcli/arborist@6.1.6`
+* [Workspace](https://github.com/npm/cli/releases/tag/libnpmdiff-v5.0.7): `libnpmdiff@5.0.7`
+* [Workspace](https://github.com/npm/cli/releases/tag/libnpmexec-v5.0.7): `libnpmexec@5.0.7`
+* [Workspace](https://github.com/npm/cli/releases/tag/libnpmfund-v4.0.7): `libnpmfund@4.0.7`
+* [Workspace](https://github.com/npm/cli/releases/tag/libnpmpack-v5.0.7): `libnpmpack@5.0.7`
+
 ## [9.2.0](https://github.com/npm/cli/compare/v9.1.3...v9.2.0) (2022-12-07)
 
 ### Features
